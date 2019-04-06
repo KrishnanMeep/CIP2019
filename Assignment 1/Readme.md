@@ -2,7 +2,7 @@ ASSIGNMENT 1
 
 Due Date: 22 March 2019
 
-Each question carries 5 Marks.
+Spatial & Vector Processing
 ---------------------------------------------------------------------------------------------
 1. Search the Web for Cumani colour edge detector and write a report on it. Analyse how it may be better than 
 doing Sobel edge detection three times on an RGB image.
