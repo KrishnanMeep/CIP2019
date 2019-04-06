@@ -12,8 +12,7 @@ the patterns visible in yours and in Floyd-Steinberg's at the various gray level
 3. Implement an algorithm to simulate the grayscale output from a colour filter array. The function prototype is
       image colour_filter (image, filter)
  That is, it takes an input colour image and a colour filter as parameters and returns a grayscale image.
- 
-Implement a demosaicking algorithm with the prototype
+ Implement a demosaicking algorithm with the prototype
       image demosaic (image, filter)
 The input image is a grayscale image output by the colour_filter algorithm and the corresponding filter array; 
 the output is a colour image.
