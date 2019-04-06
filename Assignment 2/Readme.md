@@ -1,6 +1,8 @@
 ASSIGNMENT - II
 
 Due Date: 12 April 2019
+
+Simulating Printers & Cameras
 ---------------------------------------------------------------------------------------------------------------
 1. Search the web for Colour Halftoning algorithms. Select one of them and write a detailed report on it
 OR implement the selected algorithm and show results on the test images.
